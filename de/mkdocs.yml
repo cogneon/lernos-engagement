@@ -5,26 +5,27 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    - Grundlagen:
-      - Überblick: 1-1-Grundidee.md
-      - Lebenszyklus: 1-2-Lebenszyklus.md
-      - Inhaltsverzeichnis: 1-3-Inhaltsverzeichnis.md
-      - Inhalt und Schreibstil: 1-4-Inhalt-Schreibstil.md
-      - Markdown Syntax: 1-5-Markdown-Syntax.md
-      - Produktionskette: 1-6-Produktionskette.md
-      - GitHub: 1-7-Github.md
-    - Lernpfad: 2-0-Lernpfad.md
-    - Anhang: 3-0-Anhang.md
+    - Lernpfad: 
+      - Organisiert euch (Woche 0): 2-00-Organisiert-euch.md
+      - Mein „Why“, meine Themen und mein gesellschaftliches Engagement (Woche 1): 2-01-Mein-Why-meine-Themen-mein-Engagement.md
+      - In welchem Bereich möchte ich aktiv werden? (Woche 2): 2-02-In-welchem-Bereich-moechte-ich-aktiv-werden.md
+      - Zukünfte meines Engagements (Woche 3): 2-03-Zukuenfte-meines-Engagements.md
+      - Darüber sprechen (Woche 4): 2-04-Darueber-sprechen.md
+      - Meine Ressourcen (Woche 5): 2-05-Meine-Ressourcen.md
+      - Art meines Engagements konkretisieren (Woche 6): 2-06-Art-meines-Engagements-konkretisieren.md
+      - Maßnahmen, Aufgabe und Ziele ableiten (Woche 7): 2-07-Vorhaben.md
+      - Es ist soweit. Ins Tun gekommen? (Woche 8): 2-08-Es-ist-soweit.md
+      - 100 Tage - meine Zeit! (Woche 9): 2-09-100-Tage-Meine-Zeit.md
+      - Wiedersehen nach 100 Tagen (Woche 10): 2-10–Wiedersehen-nach-100-Tagen.md
     - Download:
-      - PDF-Version: https://github.com/cogneon/lernos-template/blob/master/de/build/lernos-template-guide.pdf
-      - Word-Version: https://github.com/cogneon/lernos-template/blob/master/de/build/lernos-template-guide.docx
-      - HTML-Version: https://github.com/cogneon/lernos-template/blob/master/de/build/lernos-template-guide.html
-      - E-Book (epub): https://github.com/cogneon/lernos-template/blob/master/de/build/lernos-template-guide.epub
-      - E-Book (mobi): https://github.com/cogneon/lernos-template/blob/master/de/build/lernos-template-guide.mobi
+      - PDF-Version: https://github.com/cogneon/lernos-template/blob/master/de/build/lernos-engagement-guide.pdf
+      - Word-Version: https://github.com/cogneon/lernos-template/blob/master/de/build/lernos-engagement-guide.docx
+      - HTML-Version: https://github.com/cogneon/lernos-template/blob/master/de/build/lernos-engagement-guide.html
+      - E-Book (epub): https://github.com/cogneon/lernos-template/blob/master/de/build/lernos-engagement-guide.epub
+      - E-Book (mobi): https://github.com/cogneon/lernos-template/blob/master/de/build/lernos-engagement-guide.mobi
     - Links:
       - lernos.org: https://lernos.org
       - CONNECT Community: https://community.cogneon.de
-      - Peerfinder: https://web.peerfinder.app
 
 theme:
     name: 'material'
