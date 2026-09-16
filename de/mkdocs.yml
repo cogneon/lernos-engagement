@@ -5,6 +5,7 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
+    - Grundlagen: 1-Grundlagen.md
     - Lernpfad: 
       - Organisiert euch (0): 2-00-Organisiert-euch.md
       - Mein „Why“, meine Themen und mein gesellschaftliches Engagement (1): 2-01-Mein-Why-meine-Themen-mein-Engagement.md
