@@ -1,4 +1,4 @@
-## Woche 6 – Art meines Engagements konkretisieren
+## 6 – Art meines Engagements konkretisieren
 
 In dieser Woche wirst Du erneut einen Schritt konkreter. Nachdem Du in den letzten Wochen erarbeitet hast, welche Themen Dir wichtig sind, wofür Du Dich engagieren willst, welche konkreten Veränderungen Du anstrebst und welche Deiner Ressourcen Du einbringen kannst und möchtest, ist es jetzt an der Zeit, Dir Formen des Engagements zu suchen und Dich vielleicht sogar Organisationen, Initiativen oder Aktionsnetzwerken anzuschließen.
 
@@ -14,16 +14,27 @@ Auch ist es völlig in Ordnung, gegen etwas zu sein. Verweigerung, Protest, Bloc
 
 ## Vorbereitung: 
 Erstelle zunächst eine Liste möglicher Arten Deines Engagements. Vielleicht hilft es Dir, sie zu charakterisieren, z. B. folgendermaßen:
+
 - Individuell / Mit meinem Umfeld / Mit vielen anderen Engagierten
+
 - Lokal / International
+
 - Online / In der physischen Welt
+
 - Einmalig / Unregelmäßig / Regelmäßig / Dauerhaft
+
 - Dafür / Verändern / Dagegen
+
 - Direkt / Einflussnehmend
+
 - Sichtbar / Verdeckt
+
 - Materiell / Ideell
+
 - Vorantreibend / Mitwirkend
+
 … welche weiteren Charakteristiken Deines Engagements fallen Dir ein?
+
 
 ![Art meines Engagements](./images/06-Regler-Art-Engagement.jpg)
 
@@ -32,14 +43,23 @@ Gehe jetzt auf die Suche nach ganz konkreten Quellen, Gruppen, Aktiven etc. und 
 Achte bei Deiner Suche darauf, auch Quellen anzuzapfen, die vielleicht nicht im Internet zu finden sind. Vielleicht finden sich hilfreiche Strukturen in Deiner direkten Nachbarschaft oder an Orten, an denen Du täglich verkehrst?
 
 Quellen Deiner Recherche könnten z. B. sein:
+
 - Soziale Netzwerke (wo engagieren sich Vorbilder von Dir?)
+
 - Portale, Jobbörsen, Ehrenamtsportale, Weiterbildungsportale usw. im Internet
+
 - Alle Orte, mit denen Du regelmäßig in Kontakt stehst (an Deinem Arbeitsplatz, in der Schule Deiner Kinder, …)
+
 - Deine Nachbarschaft
+
 - Lokalpresse oder Informationsportale der Lokalverwaltung
+
 - Lokale Initiativen, Stadtteiltreffs, Gemeinde- oder Bürger:innen-Häuser
+
 - Kneipen, Cafés und Kulturstädten, die schwarze Bretter aushängen haben
+
 - Suche/Biete-Aushänge in Lebensmittelgeschäften
+
 
 Am besten gehst Du selbst auf die Suche. Weitere Inspiration findest Du in den folgenden Quellen ...
 ### Vertiefende Quellen (optional):
@@ -57,17 +77,29 @@ Am besten gehst Du selbst auf die Suche. Weitere Inspiration findest Du in den f
       
 ### Playliste/Song/Inspiration
 Hör Dir diese Songs an, wenn Du möchtest. Vielleicht sind Titel darunter, die dir mehr über dein mögliches Engagement verraten, die dich auf Personen oder Gruppen neugierig machen oder dir zeigen, wo dein Platz sein könnte? Findest Du einen Song, der dich besonders anspricht oder den du bei deinem Engagement in Dauerschleife hören würdest? Oder kommt dir ein anderes Lied in den Sinn? Teile deine Wochen-Songs gerne in den Kommentaren oder unter dem Hashtag #lernosEngagement.
-- Bob Marley - Get Up Stand Up <https://youtu.be/RhJ0q7X3DLM?si=LaOMXlakHRPV2n_s> 
-- Die Ärzte - Deine Schuld <https://youtu.be/kRrP-bZvD2s?si=FpCnwLDgQPlVGrbb>
-- DOTA & Sarah Lesch - Zeitgemäße Ansprache <https://youtu.be/GUzC84CmeXM?si=M3jVvhpc-zVMTRTJ>
-- Fridays for Future DE - Kein Grad Weiter <https://youtu.be/xmIb1HSDOq8?si=mvjFlptKnxj5MzAE> 
-- Sookee - D.R.A.G. <https://youtu.be/BZvF1_XyIKU?si=1iuuscAqa7dDEjLd>
-- Kabin Crew - The Spark <https://youtu.be/njE3EknkkBY?si=FHj6FqaRo42aQjXE>
-- Bikini Kill - Rebel Girl <https://youtu.be/8yhk7f0ydq4?si=2sSuh4Rbkoe2TwQg> 
-- Iriepathie feat. Irie Révoltés - Laut Sein <https://youtu.be/unyp3zi-W_E?si=DVGWJaCSaj2oYyJF> 
-- Yung Pepp: Laut sein (immer) <https://www.youtube.com/watch?v=3zuso3nEgnQ>
-- Finna - Musik ist Politik <https://youtu.be/U85ZKIE7f4k?si=W1R0iraGh9DkK6Ew> 
-- Mine - Ich weiss es nicht <https://youtu.be/eKhbeDXVScA?si=ijLhivqpqdncNdzS> 
+
+- [Bob Marley - Get Up Stand Up](https://youtu.be/RhJ0q7X3DLM?si=LaOMXlakHRPV2n_s)
+
+- [Die Ärzte - Deine Schuld](https://youtu.be/kRrP-bZvD2s?si=FpCnwLDgQPlVGrbb)
+
+- [DOTA & Sarah Lesch - Zeitgemäße Ansprache](https://youtu.be/GUzC84CmeXM?si=M3jVvhpc-zVMTRTJ)
+
+- [Fridays for Future DE - Kein Grad Weiter](https://youtu.be/xmIb1HSDOq8?si=mvjFlptKnxj5MzAE) 
+
+- [Sookee - D.R.A.G.](https://youtu.be/BZvF1_XyIKU?si=1iuuscAqa7dDEjLd)
+
+- [Kabin Crew - The Spark](https://youtu.be/njE3EknkkBY?si=FHj6FqaRo42aQjXE)
+
+- [Bikini Kill - Rebel Girl](https://youtu.be/8yhk7f0ydq4?si=2sSuh4Rbkoe2TwQg) 
+
+- [Iriepathie feat. Irie Révoltés - Laut Sein](https://youtu.be/unyp3zi-W_E?si=DVGWJaCSaj2oYyJF)
+
+- [Yung Pepp: Laut sein (immer)](https://www.youtube.com/watch?v=3zuso3nEgnQ)
+
+- [Finna - Musik ist Politik](https://youtu.be/U85ZKIE7f4k?si=W1R0iraGh9DkK6Ew) 
+
+- [Mine - Ich weiss es nicht](https://youtu.be/eKhbeDXVScA?si=ijLhivqpqdncNdzS) 
+
 
 ## Ablauf des wöchentlichen Treffens 6
 ### Check-In (ca. 10 Minuten, also 2 Minuten pro Mitglied)

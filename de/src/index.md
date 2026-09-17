@@ -6,9 +6,10 @@ Herzlich willkommen im **lernOS Leitfaden „Gesellschaftliches Engagement und B
 
 **Zielgruppe:** Alle Menschen, die Gesellschaft mitgestalten möchten.
 
-**Erstellungsteam:** [Gabriele Schobess](https://www.schobess.de/) und [Johannes Starke](http://www.johannes-starke.de/), unter weiterer Mitwirkung von Katharina Nolden, Gratian Riter, Antje Holst, Maya Hatsukano, Silvia Ro.
+**Erstellungsteam:** [Gabriele Schobess](https://www.schobess.de/) und [Johannes Starke](http://www.johannes-starke.de/), unter weiterer Mitwirkung von Katharina Nolden, Gratian Riter, Antje Holst, Maya Hatsukano, Silvia Roderus.
 
 **Hashtag:** #lernosEngagement
+
 
 
 # Über lernOS

@@ -1,20 +1,28 @@
-# Woche 8 – Es ist soweit. Ins Tun gekommen? 
+# 8 – Es ist soweit. Ins Tun gekommen? 
 
 Es ist gar nicht so einfach aktiv zu werden. Oft wird ein Vorhaben von außen angestoßen, ohne das du konkret darauf gewartet hast aktiv zu werden. So ging es auch Gabriele. Sie wird es weiter unten erzählen. Beim letzten Treffen habt ihr eure ersten konkreten Schritte geplant. Euer Vorhaben, dass was ihr tun werdet. 
 
 Es ist euer vorletztes Treffen. Wenn ihr heute mit dem Check-Out abschließt, werdet ihr euch wieder in 100 Tagen treffen. Das ist heute euer letztes Todo. Einen Termin in 100 Tagen auszumachen. 
 
 Heute feiern wir. Wir feiern euch, die Ersteller:innen des Lernpfades. Ihr feiert euch. 8 Wochen habt ihr euch getroffen und wir hoffen ihr habt Klarheit gefunden, was euer Vorhaben betrifft, was eure Wirksamkeit betrifft und welche Schritte ihr konkret angehen wollt, oder auch nicht. Wir freuen uns mit euch.  
+
 ## Vorbereitung:
 Wir schicken euch angelehnt an den „Bohmschen Dialog“ in einen Dialog. Begebt euch nochmal auf die Reise eurer 8 Wochen. Dabei sind für den Dialog die folgenden Rahmenbedingungen vorgegeben, lest euch diese vor dem nächsten Treffen durch:  
-- Ich spreche von Herzen und fasse mich kurz
-- Ich spreche in ICH-Botschaften für mich und nicht für alle
-- Ich lasse ausreden und setze meinen Redegegenstand ein
-- Ich genieße das Zuhören und öffne mich für andere Meinungen
-- Ich frage gegebenfalls nach und verbessere mein Verständnis dadurch
+
+- Ich spreche von Herzen und fasse mich kurz.
+
+- Ich spreche in ICH-Botschaften für mich und nicht für alle.
+
+- Ich lasse ausreden und setze meinen Redegegenstand ein.
+
+- Ich genieße das Zuhören und öffne mich für andere Meinungen.
+
+- Ich frage gegebenfalls nach und verbessere mein Verständnis dadurch.
+
 - Ich wandle meine Impulse um in ein Nicken oder Lächeln.
 
-In Bohmschen Dialog bringt ihr eure Ideen, Einsichten und Erkenntnisse vor. Die anderen ergänzen und hören sich uneingeschränkt und wertfrei zu, was ist neu an dem Gesagten, was überrascht euch? Der Dialog bringt euer Gesamtpotential der Gruppe nochmal zum Strahlen. 
+
+Im Bohmschen Dialog bringt ihr eure Ideen, Einsichten und Erkenntnisse vor. Die anderen ergänzen und hören sich uneingeschränkt und wertfrei zu, was ist neu an dem Gesagten, was überrascht euch? Der Dialog bringt euer Gesamtpotential der Gruppe nochmal zum Strahlen. 
 
 ![Bohmscher Dialog](./images/008_01.jpg)
 

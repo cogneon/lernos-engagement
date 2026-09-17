@@ -1,4 +1,4 @@
-# Woche 0 - Organisiert euch
+# 0 - Organisiert euch
 
 Vorbereitung: Wer von euch möchte die Rolle der **Moderation**
 übernehmen? Alles was du tun musst ist, die Aufgabe vorzulesen und zu sagen, wie viel Zeit jede Person dafür hat. Unterstützt wirst du von einer zweiten Person, die das **Zeitmanagement** für dich übernimmt.
@@ -30,7 +30,7 @@ Moderation: „Mit welcher Erwartungshaltung bist du hier in die Gruppe gekommen
 
 Moderation: „Ein Blitzlicht zum Schluss. Wie geht es dir jetzt? Ein Satz genügt."
 
-## Vorbereitung Woche 1\
+## Vorbereitung Woche 1
 Denke in den folgenden Tagen darüber nach: Wo bist du in deinem Leben bereits mit Ehrenamt in Kontakt gekommen? Gab es dabei Momente, die dich besonders bewegt haben?
 
 Vergiss nicht, Dich auf euer nächstes Treffen vorzubereiten. Die Übungen dazu findest Du im nächsten Kapitel. Mach Dich gleich mit Ihnen vertraut.
@@ -40,16 +40,11 @@ Vergiss nicht, Dich auf euer nächstes Treffen vorzubereiten. Die Übungen dazu 
 In „I was gonna fight fascismus" singt Alabaster de Plume, was ihn alles davon abhält, gegen Faschismus anzukämpfen:
 <https://youtu.be/ijZbNyVvTmY?si=IT0uLW8cBYCgf2R5>
 
-\...
-
-I was gonna fight fascism\
-I was gonna\
-I was just a bit tired
-
-...
+*I was gonna fight fascism*\
+*I was gonna*\
+*I was just a bit tired*
 
 Es folgt eine ganze Reihe an Aufzählung, was den Kampf gegen Faschismus
-am Ende verhindert hat. Am Ende des Songs fragt Alabaster: Does ist make
-any difference?
+am Ende verhindert hat. Am Ende des Songs fragt Alabaster: *Does ist make any difference?*
 
-Wir meinen JA.
+Wir meinen **JA**.
