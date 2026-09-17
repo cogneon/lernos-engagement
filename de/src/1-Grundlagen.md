@@ -42,6 +42,8 @@ Dieser Lernzirkel befindet sich derzeit in der Beta-Phase. Er wird durch euch ge
 - 9: 100 Tage - meine Zeit!
 - 10: Wiedersehen nach 100 Tagen 
 
+![Kapitelübersicht](./images/Uebersicht-lernOS-Engagement.jpg)
+
 ## Das Erstellungsteam dieses Lernzirkelguides
 [Gabriele Schobess](https://www.schobess.de/) und [Johannes Starke](http://www.johannes-starke.de/), unter weiterer Mitwirkung von Katharina Nolden, Gratian Riter, Antje Holst, Maya Hatsukano, Silvia Roderus.
 
