@@ -7,17 +7,17 @@ nav:
     - Willkommen: index.md
     - Grundlagen: 1-Grundlagen.md
     - Lernpfad: 
-      - Organisiert euch (0): 2-00-Organisiert-euch.md
-      - Mein „Why“, meine Themen und mein gesellschaftliches Engagement (1): 2-01-Mein-Why-meine-Themen-mein-Engagement.md
-      - In welchem Bereich möchte ich aktiv werden? (2): 2-02-Mein-Bereich.md
-      - Zukünfte meines Engagements (3): 2-03-Zukuenfte-meines-Engagements.md
-      - Darüber sprechen (4): 2-04–Darueber-sprechen.md
-      - Meine Ressourcen (5): 2-05-Meine-Ressourcen.md
-      - Art meines Engagements konkretisieren (6): 2-06-Art-meines-Engagements-konkretisieren.md
-      - Maßnahmen, Aufgabe und Ziele ableiten (7): 2-07-Vorhaben.md
-      - Es ist soweit. Ins Tun gekommen? (8): 2-08-Es-ist-soweit.md
-      - 100 Tage - meine Zeit! (9): 2-09-100-Tage-Meine-Zeit.md
-      - Wiedersehen nach 100 Tagen (10): 2-10–Wiedersehen-nach-100-Tagen.md
+      - Organisiert euch (Kata 0): 2-01-Organisiert-euch.md
+      - Mein „Why“, meine Themen und mein gesellschaftliches Engagement (Kata 1): 2-02-Mein-Why-meine-Themen-mein-Engagement.md
+      - In welchem Bereich möchte ich aktiv werden? (Kata 2): 2-03-Mein-Bereich.md
+      - Zukünfte meines Engagements (Kata 3): 2-04-Zukuenfte-meines-Engagements.md
+      - Darüber sprechen (Kata 4): 2-05–Darueber-sprechen.md
+      - Meine Ressourcen (Kata 5): 2-06-Meine-Ressourcen.md
+      - Art meines Engagements konkretisieren (Kata 6): 2-07-Art-meines-Engagements-konkretisieren.md
+      - Maßnahmen, Aufgabe und Ziele ableiten (Kata 7): 2-08-Vorhaben.md
+      - Es ist soweit. Ins Tun gekommen? (Kata 8): 2-09-Es-ist-soweit.md
+      - 100 Tage - meine Zeit! (Kata 9): 2-10-100-Tage-Meine-Zeit.md
+      - Wiedersehen nach 100 Tagen (Kata 10): 2-11–Wiedersehen-nach-100-Tagen.md
     - Download:
       - PDF-Version: https://github.com/cogneon/lernos-engagement/blob/master/de/build/lernos-engagement-guide.pdf
       - Word-Version: https://github.com/cogneon/lernos-engagement/blob/master/de/build/lernos-engagement-guide.docx

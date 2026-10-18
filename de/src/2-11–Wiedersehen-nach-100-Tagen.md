@@ -1,4 +1,4 @@
-# 10 – Wiedersehen nach 100 Tagen 
+## Wiedersehen nach 100 Tagen (Kata 10)
 
 Hundert Tage sind vergangen, 100 schnelle Tage, die im Nichts verschwunden sind. Gefressen wurden vom Alltag, dem Leben, Ereignissen. Heute trefft ihr euch wieder und sprecht darüber, wie es euch ergangen ist. Offen. Was hat funktioniert, was hat nicht funktioniert? War die Zeit reif für ein (weiteres) Engagement? 
 
@@ -11,11 +11,11 @@ Habt heute einen liebevollen Blick auf euch, wenn vielleicht nicht alle Ziele er
 Feiert kleine und große Erfolge. Freut euch darüber, euch wiederzusehen. Lacht zusammen, weint zusammen. 
 Wertschätzt eure gemeinsame Reise. Macht euch eine gute Stunde. 
 
-## Ablauf des 100Days-Treffens
-### Check In
+### Ablauf des 100Days-Treffens
+#### Check In
 Wie bist du heute hier? 
 
-### Storycircle (5 + 40)
+#### Storycircle (5 + 40)
 Wir schicken euch heute in einen Storycircle. Vor ca. 100 Tagen habt ihr euren Lernzirkel abgeschlossen. Was ist seit dem passiert? Heute tauscht ihr eure in der Zwischenzeit gewonnenen Erfahrungen aus. Dazu stellen wir eine Frage die Bezug nimmt auf ein konkretes Erlebnis: 
 
 **„Welches Erlebnis der letzten 100 Tage hat dich in Bezug auf Beteiligung, dein Ehrenamt, eine von dir getroffene Entscheidung, etc. hat dich in den letzten 100 Tagen am meisten bewegt?“**
@@ -24,16 +24,15 @@ Es sollte etwas Konkretes sein, etwas real geschehenes, ein Bild, das du beschre
 
 Die erzählende Person wird nicht unterbrochen, es findet kein Austausch dazu statt. Ihr erzählt nacheinander eure Geschichten.
 
-### Ablauf
+#### Ablauf
 Nehmt euch 5 Minuten in Stille und sucht die eine Geschichte, die ihr teilen wollt. 
 
 Erzählt dann reihum eure Geschichte. Am Ende der Geschichte, überlegst du, welchen Titel deine Geschichte tragen könnte. Ein Titel wie ein Filmtitel oder ein Lied. 
 
 Wenn alle ihre Geschichte erzählt haben, sucht ihr gemeinsam nach Ähnlichkeiten in den Geschichten oder übereinstimmenden Mustern. Wenn ihr keine findet ist das auch in Ordnung. 
 
-### Check Out
+#### Check Out
 Was möchtest du außer „Goodbye“ den anderen heute noch sagen? 
 
-## Playliste/Song/Inspiration
+### Playliste/Song/Inspiration
 [Kalabrese: Oisi Zuekunft / Unsere Zukunft / Riding the future …](https://youtu.be/1DckU4YaJYM?si=XZwpAsn-DH0FCxBd)
-

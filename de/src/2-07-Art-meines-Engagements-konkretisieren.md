@@ -1,4 +1,4 @@
-## 6 – Art meines Engagements konkretisieren
+## Art meines Engagements konkretisieren (Kata 6)
 
 In dieser Woche wirst Du erneut einen Schritt konkreter. Nachdem Du in den letzten Wochen erarbeitet hast, welche Themen Dir wichtig sind, wofür Du Dich engagieren willst, welche konkreten Veränderungen Du anstrebst und welche Deiner Ressourcen Du einbringen kannst und möchtest, ist es jetzt an der Zeit, Dir Formen des Engagements zu suchen und Dich vielleicht sogar Organisationen, Initiativen oder Aktionsnetzwerken anzuschließen.
 
@@ -12,7 +12,7 @@ Auch ist es völlig in Ordnung, gegen etwas zu sein. Verweigerung, Protest, Bloc
 
 > **Persönliche Erfahrung von Gabriele:** Eine Nachbarin fragte mich, ob ich ihre Rolle als Sprecherin einer Nachhaltigkeits-Initiative übernehmen möchte. Bis zu diesem Zeitpunkt hat sich mein Ehrenamt auf punktuelle Initiativen in Schulen oder das Amt der Elternsprecherin beschränkt. Ehrlich gesagt habe ich bis zu diesem Zeitpunkt diese Aktivitäten gar nicht als Ehrenamt eingestuft. Ich bin auch nicht als Aktivistin im Nachhaltigkeitsbereich aktiv gewesen. Aber was soll ich sagen: Es ist perfekt für mich. Ich baue die (nicht vorhandenen) Kommunikationskanäle und Social Media auf, habe eine Webpräsenz erstellt, einen Podcast initiiert und bin derzeit dabei die solitär aktiven Einzelgruppierung zu vernetzen. Ich kann komplett „ausleben“ was mir sowieso Spaß macht. Ich unterstütze die Aktivist:innen dabei, ihre Arbeit sichtbar zu machen. Ganz nebenbei hat die Rolle Einfluß auf mein Wissen in diesem Bereich und Teile meines Lebens verändert. Die Rolle ist perfekt für mich. Meine Social Media Aktivität in dieser Rolle beschränkt sich auf das Schreiben von Posts für die Gruppe, obwohl ich auf Social Media ansonsten sehr aktiv bin. 
 
-## Vorbereitung: 
+### Vorbereitung: 
 Erstelle zunächst eine Liste möglicher Arten Deines Engagements. Vielleicht hilft es Dir, sie zu charakterisieren, z. B. folgendermaßen:
 
 - Individuell / Mit meinem Umfeld / Mit vielen anderen Engagierten
@@ -62,7 +62,7 @@ Quellen Deiner Recherche könnten z. B. sein:
 
 
 Am besten gehst Du selbst auf die Suche. Weitere Inspiration findest Du in den folgenden Quellen ...
-### Vertiefende Quellen (optional):
+#### Vertiefende Quellen (optional):
 - Auf <https://demokratie-navi.de> kannst Du einen interaktiven Test machen, der Dir Vorschläge macht, welche Art der demokratischen Mitgestaltung zu Dir passen könnte. 
 - Viele Nachbarschaftsinitiativen und Vereine posten ihre Aktivitäten auf der kommerziellen Nachbarschafts-Plattform <https://nebenan.de>. Ein Blick kann nicht schaden. Sei Dir allerdings bewusst, dass die Plattform mit Deinen Daten Geld verdient. Manche Nutzer:innen berichten von problematischem Publikum.
 - Barcamps (ein partizipatives Veranstaltungsformat, bei dem alle Beteiligten eigene Themen einbringen und besprechen können) sind eine gute Möglichkeit, Mitstreiter:innen kennenzulernen, Initiativen kennenzulernen und mehr über Themen oder lokale Aktivitäten zu erfahren. Es gibt regional und thematisch ausgerichtete Barcamps. Die größte Liste von Barcamps im deutschsprachigen Raum findest Du auf <https://www.barcamp-liste.de/>
@@ -75,7 +75,7 @@ Am besten gehst Du selbst auf die Suche. Weitere Inspiration findest Du in den f
 - Vielleicht möchtest Du Dein Engagement mit Vorlesen starten? Die Stiftung Lesen bringt Dich und Deine Zuhörerschaft zusammen: <https://www.stiftunglesen.de/mitmachen/freiwilliges-engagement-fuers-lesen> 
 - WeChange ist nicht nur ein Anbieter digitaler Infrastruktur für soziale Projekte, sondern hat auf seiner Webseite auch eine Karte mit laut Eigenangabe „über 4.000 Gruppen und 11.000 Projekten“, auf der ihr nach Initiativen in eurer Nähe suchen könnt: <https://wechange.de/cms/> 
       
-### Playliste/Song/Inspiration
+#### Playliste/Song/Inspiration
 Hör Dir diese Songs an, wenn Du möchtest. Vielleicht sind Titel darunter, die dir mehr über dein mögliches Engagement verraten, die dich auf Personen oder Gruppen neugierig machen oder dir zeigen, wo dein Platz sein könnte? Findest Du einen Song, der dich besonders anspricht oder den du bei deinem Engagement in Dauerschleife hören würdest? Oder kommt dir ein anderes Lied in den Sinn? Teile deine Wochen-Songs gerne in den Kommentaren oder unter dem Hashtag #lernosEngagement.
 
 - [Bob Marley - Get Up Stand Up](https://youtu.be/RhJ0q7X3DLM?si=LaOMXlakHRPV2n_s)
@@ -101,20 +101,20 @@ Hör Dir diese Songs an, wenn Du möchtest. Vielleicht sind Titel darunter, die 
 - [Mine - Ich weiss es nicht](https://youtu.be/eKhbeDXVScA?si=ijLhivqpqdncNdzS) 
 
 
-## Ablauf des wöchentlichen Treffens 6
-### Check-In (ca. 10 Minuten, also 2 Minuten pro Mitglied)
+### Ablauf des wöchentlichen Treffens 6
+#### Check-In (ca. 10 Minuten, also 2 Minuten pro Mitglied)
 - Was brauchst Du heute?
 - Welcher Song aus der Playlist trägt Dich durch die Woche? Wie und wieso?
 - Zu was hast Du Dich in der vergangenen Woche engagiert … und wirke es noch so klein?
 - Welcher Gedanke ist Dir aus dem letzten Weekly präsent?
-### Vorstellung eurer Vorbereitungen (ca. 30 Minuten, also 6 Minuten pro Mitglied)
+#### Vorstellung eurer Vorbereitungen (ca. 30 Minuten, also 6 Minuten pro Mitglied)
 - Stellt euch gegenseitig eure Listen vor und teilt Hinweise, Ergänzungen und Empfehlungen.
 - Nehmt euch pro Vorstellung bewusst ein paar Minuten Zeit, ergänzende Quellen oder Empfehlungen aus dem eigenen Netzwerk zu finden und mit der vorstellenden Person zu teilen.
 - Macht euch zu den Vorstellungen und Hinweisen Notizen, um im nächsten Schritt auf sie zurückgreifen zu können.
-### Ergänzung oder Konkretisierung eurer Themen (ca. 15 Minuten, also 3 Minuten pro Mitglied):
+#### Ergänzung oder Konkretisierung eurer Themen (ca. 15 Minuten, also 3 Minuten pro Mitglied):
 - Was habt ihr aus von den Vorstellungen und Hinweisen eurer Mitzirkelnden gelernt? Nehmt euch jeweils eine Minute zum Nachdenken. Ergänzt, schärft oder konkretisiert eure Themensammlung und teilt eure Überarbeitung miteinander.
-### Check-Out (ca. 5 Minuten, also 1 Minute pro Mitglied)
+#### Check-Out (ca. 5 Minuten, also 1 Minute pro Mitglied)
 - Was nimmst Du mit – in einem Satz?
 
-## Nachbereitung
+### Nachbereitung
 Erhöhe und vertiefe Dein Wissen zu den Formen des Engagements, die Du Dir ausgewählt hast. Recherchiere tiefer und beziehe die Tipps Deiner Mitzirkelnden ein. Wenn Du Dich für Gruppen, Vereine o. ä. Interessiert, suche nach Ansprechpersonen. Vielleicht magst Du schon eine Nachricht schicken oder bei einer Veranstaltung vorbeigehen? Nimm Dir vor, mindestens einen nächsten Schritt zu tun … wie klein er auch sein mag – und erzähle Deinen Mitzirkelnden zwischendurch oder bei eurem nächsten Treffen davon.

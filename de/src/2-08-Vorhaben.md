@@ -1,9 +1,9 @@
-# 7 – Maßnahmen, Aufgabe und Ziele ableiten
+## Maßnahmen, Aufgabe und Ziele ableiten (Kata 7)
 
 Was hast Du in der Nachbereitung der Ergebnisse von letzter Woche herausgefunden? Hast Du Dich schon intensiver damit beschäftigt, in welchem Kontext Du Dich engagieren möchtest? Hast Du schon erste Kontakte geknüpft, vielleicht sogar schon eine Rückmeldung erhalten, die Dir Ideen für Deine nächsten Schritte gibt?
 
 Diese Woche soll Dich dazu anregen, den nächsten Schritt zu tun. Bitte entschuldige, wenn dieser Lernzirkel manchmal pushy wirkt. Vielleicht bist Du schon längst viel weiter und findest das Gedrängel und die Motivationssprüche albern. Vielleicht sind Deine Gedanken heute ganz woanders und Du hast diese Woche keinen Kopf, Pläne für die Zukunft zu machen. Beides ist okay. Vielleicht magst Du mit Deinen Mitzirkelnden darüber sprechen? Die meisten Lernzirkel-Gruppen gestalten die eine oder andere (oder auch alle …) Weekly-Beschreibungen nach ihren Bedarfen und Bedürfnissen um, weichen davon ab, nehmen sich für manche Übungen mehr Zeit und überspringen andere gänzlich. Wichtig ist nicht, genau die Übungen zu befolgen, sondern die Entwicklung und das Lernen von euch als Gruppe und von Dir.
-## Vorbereitung: 
+### Vorbereitung: 
 Du hast schon viel erreicht! Vielleicht magst Du innehalten und auf die vergangenen Kapitel zurückblicken? Du hast Dir in den letzten Wochen unter anderem über die folgenden Themen Gedanken gemacht, Ideen gesponnen und erste Initiativen gestartet:
 
 - Grundsätzliche Erkenntnisse über und Austausch zu Deiner Motivation, mit diesem Lernzirkel zu starten und Dich zu engagieren (0)
@@ -56,7 +56,7 @@ Wenn Du Dein erstes Vorhaben erledigt hast, sichte Deine weiteren Vorhaben. Mach
 
 Du bekommst hier ganz bewusst kein striktes Produktivitätsframework oder ähnliches präsentiert. In anderen LernOS-Leitfäden wird manchmal das Setzen „SMARTer“ Ziele empfohlen … wir verzichten ganz bewusst darauf, weil wir wissen, dass sich Lebensumstände, Zielsetzungen und Überzeugungen im persönlichen Engagement regelmäßig und manchmal radikal wandeln und Du Dich nicht selbst unter Druck setzen, sondern auf Deine Ressourcen achten solltest. Nur eins: Überlege Dir, wie Du Deine Liste leicht pflegbar machst und für Dich präsent hältst. Überarbeitest Du sie digital? Hängst Du sie Dir über Deinen Schreibtisch? Schreibst Du sie Dir in Deinen Kalender?
 
-### Playlist zu Woche 7
+#### Playlist zu Woche 7
 Hör Dir diese Songs an, wenn Du möchtest. Findest Du einen Song, der Dich anspricht, einige Deiner Vorhabe und Ziele in Wort oder Ton fasst, oder den Du gerne beim Tun hören würdest? Oder kommt Dir ein anderes Lied in den Sinn? Teile Deine Wochen-Songs gerne in den Kommentaren oder unter dem Hashtag #lernOSEngagement
 
 
@@ -85,20 +85,20 @@ Hör Dir diese Songs an, wenn Du möchtest. Findest Du einen Song, der Dich ansp
 - [Against Me! - Transgender Dysphoria Blues](https://youtu.be/eDJnhl_2d3k?si=3AJMTbUB8Olj8IHn)
 
 
-## Treffen Woche 7
-### Check-In (ca. 10 Minuten, also 2 Minuten pro Mitglied)
+### Treffen Woche 7
+#### Check-In (ca. 10 Minuten, also 2 Minuten pro Mitglied)
 - Was brauchst Du heute?
 - Welcher Song aus der Playlist trägt Dich durch die Woche? Wie und wieso?
 - Zu was hast Du Dich in der vergangenen Woche engagiert … und wirke es noch so klein?
 - Welcher Gedanke ist Dir aus dem letzten Weekly präsent?
-### Vorstellung eurer Vorbereitungen (ca. 30 Minuten, also 6 Minuten pro Mitglied)
+#### Vorstellung eurer Vorbereitungen (ca. 30 Minuten, also 6 Minuten pro Mitglied)
 - Stellt euch gegenseitig eure Vorhaben vor und teilt Hinweise, Ergänzungen und Empfehlungen.
 - Stellt ebenfalls vor, wie ihr eure Vorhabenliste aktualisiert und für euch visualisiert. Ihr habt alle unterschiedliche Ansätze, um euch eure Vorhaben präsent zu halten.
 - Nehmt euch pro Vorstellung bewusst ein paar Minuten Zeit, Unterstützung anzubieten, hilfreiche Quellen zu empfehlen oder bei der Schärfung der Vorhaben zu unterstützen. 
-### Ergänzung oder Konkretisierung eurer Themen (ca. 15 Minuten, also 3 Minuten pro Mitglied):
+#### Ergänzung oder Konkretisierung eurer Themen (ca. 15 Minuten, also 3 Minuten pro Mitglied):
 - Was habt ihr aus von den Vorstellungen und Hinweisen eurer Mitzirkelnden gelernt? Nehmt euch jeweils eine Minute zum Nachdenken. Ergänzt, schärft oder konkretisiert eure Vorhaben und teilt eure Überarbeitung miteinander.
-### Check-Out (ca. 5 Minuten, also 1 Minute pro Mitglied)
+#### Check-Out (ca. 5 Minuten, also 1 Minute pro Mitglied)
 - Was nimmst Du mit – in einem Satz?
 
-## Nachbereitung
+### Nachbereitung
 Immer weiter machen …. ergänze Deine Liste und halte sie auf dem aktuellen Stand. Gehe weitere Vorhaben auf Deiner Liste an. Beobachte, welche Umstände dazu führen, dass Dir die Umsetzung leichter fällt. Beobachte auch, wann es Dir zu viel wird. Passe Deine Vorhaben daraufhin an: Wenn Du z. B. merkst, dass Dir die direkte Kontaktaufnahme mit Personen schwer fällt oder Du zeitlich nicht dazu kommst, überlege Dir Alternativen. Es ist keine nicht schlimm, Vorhaben wieder von der Liste zu streichen oder durch weniger ambitionierte zu ersetzen. 

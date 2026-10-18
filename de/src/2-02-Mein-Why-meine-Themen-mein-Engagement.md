@@ -1,4 +1,4 @@
-# 1 - Mein „Why“, meine Themen und mein gesellschaftliches Engagement  
+## Mein „Why“, meine Themen und mein gesellschaftliches Engagement (Kata 1)  
 
 Gesellschaftliches Engagement ist vielfältig. Es verbindet. Es ist eine Säule des gesellschaftlichen Miteinander, das OHNE nur sehr viel schwerer bis überhaupt nicht funktionieren würde. Du schenkst einem Thema Zeit, Aufmerksamkeit und dein Know-How. Was du zurückbekommst ist offen und nicht vorhersehbar. Es ist vielseitig und wir wollen dir helfen mit Leichtigkeit einen guten Platz für dich zu finden, der sich gut für dich anfühlt.
 
@@ -31,20 +31,20 @@ Gesellschaftliches Engagement, Engagement, Ehrenamt, Teil einer Initiative sein,
 
 ***Persönliche Anmerkung von Johannes:** Engagement bedeutet noch so viel mehr als Ehrenamt! Das wurde mir erst im Austausch und in der Arbeit mit den Autor:innen dieses Lernzirkel-Leitfadens klar. Vorher fühlte ich mich nicht sonderlich engagiert. Mittlerweile weiß ich, wie ich mich auch durch kleine Interventionen immer wieder einbringen kann. Ich bin mir nicht nur bewusster, welche Auswirkungen auch scheinbar nebensächliche Verhaltensweisen von mir haben können, sondern verstehe auch besser, in welchen umfassenderen strukturellen Abhängigkeiten Engagement und Möglichkeiten der Beteiligung stehen.*
 
-## Vertiefende Quellen
+### Vertiefende Quellen
 
 - [Broschüre "Gesellschaftlicher Zusammenhalt in Deutschland 2023" der Bertelsmann Stiftung](https://www.bertelsmann-stiftung.de/fileadmin/files/Projekte/Gesellschaftlicher_Zusammenhalt/Gesellschaftlicher_Zusammenhalt_2023/2024_Studie_Gesellschaftlicher-Zusammenhalt-2023.pdf)
 - Auf [Oganisiert-euch.de](https://organisiert-euch.de/) gibt es verschiedene Videokurse für bereits Engagierte, z. B. zu Projektmanagement, Moderation, Öffentlichkeits- oder Kampagnenarbeit
 - Auch die [Changemaker Academy](https://changemaker-academy.org/) bietet viele verschiedene Kurse an. Besonders empfehlenswert ist das "Changemaker Playbook für Demokratie", das viele Themen adressiert, die auch ihr in den kommenden Wochen bearbeiten werdet.
 - Das Buch ["Ein Update für unsere Demokratie"](https://www.oekom.de/buch/ein-update-fuer-unsere-demokratie-9783987261657), herausgegen von Jascha Rohr und als Open Access erhältlich, enthält viele Beiträge von Menschen, die sich politisch für mehr Mitbestimmung, Beteiligung und Transparenz einsetzen.
 
-## Ablauf des wöchentlichen Treffens 1
+### Ablauf des wöchentlichen Treffens 1
 
-### Check-In (Zeitmanagement: 2 Minuten pro Person) (10 Minuten)
+#### Check-In (Zeitmanagement: 2 Minuten pro Person) (10 Minuten)
 
 > Moderation: „Welche Erfahrung oder Beobachtung in Bezug auf Engagement und gesellschaftlicher Beteiligung hat dich zum ersten Mal berührt oder bewegt?"
 
-### Glasperlenspiel (30 Minuten)
+#### Glasperlenspiel (30 Minuten)
 
 Das Glasperlenspiel bringt Gedanken in den Fluss. Jede:r Teilnehmende hat eine Minute Redezeit. Kennst du das? Sprechdenken hilft dir bei der Klarheit und beim Strukturieren der Gedanken. Das Glasperlenspiel trägt seinen Namen, weil es „Gedanken wie Perlen aneinander reiht". Es unterstützt dich dabei. Das Zeitmanagement ist hier besonders wichtig. Haltet euch unbedingt an die Zeiten und auch an die Reihenfolge der sprechenden Personen.
 
@@ -69,7 +69,7 @@ Nach zwei Runden zu Frage 1 fahrt ihr nach dem gleichen Prinzip mit Frage 2 fort
 
 ![Abbildung Glasperlenspiel](./images/01_01.jpg)
 
-### Dokumentation und Austausch (10 Minuten)
+#### Dokumentation und Austausch (10 Minuten)
 
 Tauscht euch im Anschluss aus:
 
@@ -77,14 +77,14 @@ Wo seht ihr Übereinstimmungen wo Unterschiede in euren Gedanken?
 
 Sammelt eure Erkenntnisse und haltet sie, wenn ihr möchtet, fest.
 
-### Check-Out (10 Minuten)
+#### Check-Out (10 Minuten)
 
 Gibt es einen Satz, einen Gedanken, der dich im Nachgang zu eurem Treffen heute beschäftigen oder begleiten wird?
 
-## Vorbereitung Woche 2
+### Vorbereitung Woche 2
 Lest euch bitte gemeinsam den Vorbereitungs-Block im nächsten Kapitel 2 "In welchem Bereich möchte ich aktiv werden?" durch. Hier werdet ihr euch nochmal vertiefend mit den Themen beschäftigen.
 
-## Musikalische Inspiration zu Woche 1
+### Musikalische Inspiration zu Woche 1
 
 **Searching for Sugarman:** Ihr seid auf der Suche. Im Dokumentarfilm „Searching for Sugarman" machen sich zwei Musikfans auf die Suche nach dem Musiker Sixto Rodriguez, der bei den Protestsongs für die „Anti"-Apartheid Bewegung eine große Rolle spielte. Mehr soll nicht verraten werden.
 

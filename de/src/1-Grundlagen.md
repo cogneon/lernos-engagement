@@ -30,17 +30,17 @@ Dieser Lernzirkel befindet sich derzeit in der Beta-Phase. Er wird durch euch ge
 
 ## Kapitelüberblick
 - Einleitung (Überblick, Grundlegendes und wichtige Hinweise, bevor es losgeht)
-- 0: Organisiert euch
-- 1: Mein „Why“, meine Themen und mein gesellschaftliches Engagement
-- 2: In welchem Bereich möchte ich aktiv werden?
-- 3: Zukünfte meines Engagements
-- 4: Darüber sprechen
-- 5: Meine Ressourcen
-- 6: Art meines Engagements konkretisieren
-- 7: Maßnahmen, Aufgabe und Ziele ableiten
-- 8: Es ist soweit. Ins Tun gekommen? 
-- 9: 100 Tage - meine Zeit!
-- 10: Wiedersehen nach 100 Tagen 
+- Kata 0: Organisiert euch
+- Kata 1: Mein „Why“, meine Themen und mein gesellschaftliches Engagement
+- Kata 2: In welchem Bereich möchte ich aktiv werden?
+- Kata 3: Zukünfte meines Engagements
+- Kata 4: Darüber sprechen
+- Kata 5: Meine Ressourcen
+- Kata 6: Art meines Engagements konkretisieren
+- Kata 7: Maßnahmen, Aufgabe und Ziele ableiten
+- Kata 8: Es ist soweit. Ins Tun gekommen? 
+- Kata 9: 100 Tage - meine Zeit!
+- Kata 10: Wiedersehen nach 100 Tagen 
 
 ![Kapitelübersicht](./images/Uebersicht-lernOS-Engagement.jpg)
 

@@ -1,4 +1,4 @@
-# 9: 100 Tage - meine Zeit!
+## 100 Tage - meine Zeit! (Kata 9)
 
 Deine hundert Tage sind angebrochen. Nutze Sie.
 

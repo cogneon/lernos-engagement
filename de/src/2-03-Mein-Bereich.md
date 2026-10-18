@@ -1,4 +1,4 @@
-# 2 – In welchem Bereich möchte ich aktiv werden?
+## In welchem Bereich möchte ich aktiv werden? (Kata 2)
 
 Im letzten Kapitel habt ihr euch damit auseinandergesetzt, wieso ihr ganz grundsätzlich aktiv werden möchtet. Außerdem habt ihr bereits begonnen, euch Gedanke über die Themen zu machen, die euch intensiv beschäftigen und denen ihr eventuell euer Engagement widmen könntet. In diesem Kapitel geht es darum, diese Suche weiter zu konkretisieren.
 
@@ -16,7 +16,7 @@ Du wirst es  ahnen: Ziel dieser Woche ist auch, einige eurer Zweifel ins Wanken 
 
 > **Persönliche Anmerkung von Johannes:** Ich habe selbst mehrere Themen, zu denen ich aktiv bin oder werden möchte. Die Art, wie ich mich zu diesen Themen positioniere und mehr oder weniger sichtbar bin, ist sehr unterschiedlich. Außerdem ist mein Engagement stark davon abhängig, in welcher Rolle und in welchem Kontext ich mich gerade befinde. 
 
-## Vorbereitung: 
+### Vorbereitung: 
 1. Erstelle eine Liste an Themen, zu denen Du Dich engagieren möchtest. Diese Liste kann ganz unterschiedlich sein: 
 	- Wenn Du Dich schon entschieden hast, welches ‚Dein‘ Thema ist, versuche bereits, es möglichst konkret zu beschreiben *(z. B. „Ich möchte zu einer offenen, geselligen und verständnisvollen Nachbarschaft beitragen, indem ich ein Nachbarschaftsfest mitorganisiere.“)*
 ![Mein Thema](./images/02-Mein-Thema.jpg)
@@ -28,7 +28,7 @@ Du wirst es  ahnen: Ziel dieser Woche ist auch, einige eurer Zweifel ins Wanken 
 2. Wenn Du Deine Liste erstellt hast, begib Dich auf die Suche nach Namen, Artikeln, Videos, Büchern, Podcasts oder Webseiten von Personen, die sich bereits zu diesen Themen engagieren. Wähle eine oder mehrere engagierte Personen oder Quellen aus und notiere Dir, wieso Du sie gewählt hast. Was lernst Du von Ihnen für Dein eigenes potenzielles Engagement.
 3. Es kann beflügeln oder lähmend sein, sich an großen Vorbildern zu orientieren. Versuche, neben den in Schritt 2 gesammelten Quellen zusätzlich besonders kleine oder unscheinbar wirkende Ausdrücke von Engagement zu finden. Vielleicht kommt Dir z. B. im Bereich Klimaschutz nicht nur Luisa Neubauer in den Sinn, sondern zusätzlich eine kleine Handlung aus dem Alltag, die Du neulich beobachtet hast. Bring auch diese Notiz mit Ihn eure gemeinsame Session.
 
-## Playlist:
+### Playlist:
 Hör Dir diese Songs an, wenn Du möchtest. Vielleicht sind Titel darunter, die mit Deinen Themenfeldern zu tun haben? Findest Du einen Song, der Dich besonders anspricht oder Dir Ideen für Dein Engagement gibt? Oder kommt Dir ein anderes Lied in den Sinn? Teile Deine Wochen-Songs gerne in den Kommentaren oder unter dem Hashtag #lernosEngagement.
 
 - [MALONDA - Deutschungsungshoheit](https://youtu.be/yp-Q2FRVwcY?si=EkszY-xb5dnpADLN)
@@ -46,25 +46,25 @@ Hör Dir diese Songs an, wenn Du möchtest. Vielleicht sind Titel darunter, die 
 - [Heaven Shall Burn - Voice of the Voiceless](https://youtu.be/v9By2REDRVQ?si=j_tmvaFjvxHgxlC)
 - [Apsilon - Keiner von euch](https://youtu.be/nIRlxK8vcgA?si=Vp9rqQ0fgXp6tVDb)
 
-## Treffen Woche 2
-### Check-In (ca. 10 Minuten, also 2 Minuten pro Mitglied)
+### Treffen Woche 2
+#### Check-In (ca. 10 Minuten, also 2 Minuten pro Mitglied)
 - Was brauchst Du heute?
 - Welcher Song aus der Playlist trägt Dich durch die Woche? Wie und wieso?
 - Zu was hast Du Dich in der vergangenen Woche engagiert … und wirke es noch so klein?
 - Welcher Gedanke ist Dir aus dem letzten Weekly präsent?
 
-### Vorstellung eurer Vorbereitungen (ca. 30 Minuten, also 6 Minuten pro Mitglied)
+#### Vorstellung eurer Vorbereitungen (ca. 30 Minuten, also 6 Minuten pro Mitglied)
 - Stellt euch gegenseitig eure Listen vor und teilt Hinweise, Ergänzungen und Empfehlungen.
 - Nehmt euch pro Vorstellung bewusst ein paar Minuten Zeit, ergänzende Quellen oder Empfehlungen aus dem eigenen Netzwerk zu finden und mit der vorstellenden Person zu teilen.
 - Macht euch zu den Vorstellungen und Hinweisen Notizen, um im nächsten Schritt auf sie zurückgreifen zu können.
 
-### Ergänzung oder Konkretisierung eurer Themen (ca. 15 Minuten, also 3 Minuten pro Mitglied):
+#### Ergänzung oder Konkretisierung eurer Themen (ca. 15 Minuten, also 3 Minuten pro Mitglied):
 - Was habt ihr aus von den Vorstellungen und Hinweisen eurer Mitzirkelnden gelernt? Nehmt euch jeweils eine Minute zum Nachdenken. Ergänzt, schärft oder konkretisiert eure Themensammlung und teilt eure Überarbeitung miteinander.
 
-### Check-Out (ca. 5 Minuten, also 1 Minute pro Mitglied)
+#### Check-Out (ca. 5 Minuten, also 1 Minute pro Mitglied)
 - Was nimmst Du mit – in einem Satz?
 
-## Nachbereitung
+### Nachbereitung
 Wenn Du etwas Zeit findest, konkretisiere Deine Liste gerne bereits weiter. Starte mit der Suche z. B. nach ….
 
 - Historische Vorbilder (Einzelpersonen oder Organisationen)
